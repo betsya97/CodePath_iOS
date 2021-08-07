@@ -35,7 +35,7 @@ GIF created with [EZGIF](https://ezgif.com/video-to-gif).
 ## Notes
 
 Challenges I faced where including more UI features to the app. Sliders were a first thought of to change the percentages of the tip, also a feature to split the bill would have been more useful. Something else I would have added is a loading screen to "introduce" the user to the app. A switch for dark mode was also an idea I had but the documention I found only included changing the phone settings to dark, which changed the appearance of the app. 
-Working with Swift was a new experience in which I would like to learn more of. The syntax was easier to understand since I have a general background of OOP languages like C++. However, using the storyboard proved a bit of a challenge for me to grasp such as adding more controllers and connecting the logic.
+Working with Swift was a new experience in which I would like to learn more of. This is my first iOS app! The syntax was easier to understand since I have a general background of OOP languages like C++. However, using the storyboard proved a bit of a challenge for me to grasp such as adding more controllers and connecting the logic.
 
 ## License
 
