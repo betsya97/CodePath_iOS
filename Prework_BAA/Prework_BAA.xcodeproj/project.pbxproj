@@ -81,7 +81,6 @@
 		4B30E89E26AC4D71000F7E97 = {
 			isa = PBXGroup;
 			children = (
-				4BECB40026AFC86B0096E18F /* SettingsViewController.swift */,
 				4B30E8A926AC4D71000F7E97 /* Prework_BAA */,
 				4B30E8C026AC4D72000F7E97 /* Prework_BAATests */,
 				4B30E8CB26AC4D72000F7E97 /* Prework_BAAUITests */,
@@ -102,6 +101,7 @@
 		4B30E8A926AC4D71000F7E97 /* Prework_BAA */ = {
 			isa = PBXGroup;
 			children = (
+				4BECB40026AFC86B0096E18F /* SettingsViewController.swift */,
 				4B30E8AA26AC4D71000F7E97 /* AppDelegate.swift */,
 				4B30E8AC26AC4D71000F7E97 /* SceneDelegate.swift */,
 				4B30E8AE26AC4D71000F7E97 /* ViewController.swift */,
@@ -442,6 +442,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Prework_BAA/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -460,6 +461,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Prework_BAA/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -17,7 +17,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.title = "Tip Calculator"
-        // Do any additional setup after loading the view.
+        //make textField the first responder
+        billAmountTextField.becomeFirstResponder()
     }
 
     @IBAction func calculateTip(_ sender: Any) {
